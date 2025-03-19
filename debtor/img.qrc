@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>logo(1).png</file>
+        <file>WhatsApp Image 2025-03-19 at 16.01.43.jpeg</file>
+        <file>icons8-logout-rounded-16.png</file>
+        <file>logout.png</file>
+    </qresource>
+</RCC>
